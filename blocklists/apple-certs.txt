@@ -1,0 +1,9 @@
+# Block Apple hosts used for revoked certificate checking so you can use them along with ESign & Feather.
+
+||vpp.itunes.apple.com^
+||appattest.apple.com^
+||certs.apple.com^
+||crl.apple.com^
+||valid.apple.com^
+||ocsp2.apple.com^
+||ocsp.apple.com^
